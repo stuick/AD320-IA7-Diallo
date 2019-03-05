@@ -1,5 +1,5 @@
 #Ignore 'node_module'
-ad320-ia7-diallo/node_modules/
+ad320-ia7-diallo/node_modules
 
 #Ignore VS files
-.vs/
+.vs
